@@ -48,9 +48,9 @@ border: none;
 }
 
 .time{
-	
-	font-size: 48px;
+font-size: 48px;
 font-weight: bold;
+text-align: right;
 }
 
 .time small{
@@ -62,7 +62,7 @@ font-weight: bold;
 footer {
 text-align: center;
 font-size: 18px;
-color: ;
+color: #333333;
 }
 
  a {
